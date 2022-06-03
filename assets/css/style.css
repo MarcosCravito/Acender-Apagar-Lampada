@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.principal {
+    display: block;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    border: 1px solid black;
+    margin: 100px;
+    background-color: rgba(105, 99, 208, 0.597);
+}
+
+h1{
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#acessa{
+    display: none;
+}
+
+button{
+    background-color: aliceblue;
+    border: 10px;
+    border: 1px solid black;
+    font-size: 30px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button:hover{
+    background-color: rgb(13, 16, 169);
+    color: white;
+    transform: rotate(360deg);
+}
