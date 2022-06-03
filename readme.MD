@@ -1,3 +1,3 @@
 // Acender e apagar lampada
 
-<img src="images/captura.png" alt="Imagem do projeto" />
+<img src="../assets/images/captura.png" alt="Imagem do projeto" />
